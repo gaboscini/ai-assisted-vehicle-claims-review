@@ -1,0 +1,31 @@
+{
+  "test_data_notice": "Synthetic data for demonstration testing only",
+  "claim_id": "CLM-DEMO-000001",
+  "policy_number": "POL-DEMO-000001",
+  "customer_id": "CUS-DEMO-000001",
+  "customer_name": "Morgan Lee",
+  "identity_number": "KTP-TEST-000001",
+  "date_of_birth": "1990-04-15",
+  "address": "100 Example Avenue, Example City",
+  "sim_number": "SIM-TEST-000001",
+  "sim_class": "A",
+  "sim_expiration_date": "2028-04-15",
+  "incident_date": "2026-07-18",
+  "incident_location": "Example City",
+  "damage_description": "Damage to the front bumper and left headlight",
+  "vehicle": {
+    "plate_number": "EXAMPLE-1234",
+    "year": 2022,
+    "make": "Toyota",
+    "model": "Avanza",
+    "chassis_number": "CHASSIS-DEMO-000001",
+    "engine_number": "ENGINE-DEMO-000001",
+    "registration_expiration_date": "2027-12-31",
+    "coverage_type": "Comprehensive"
+  },
+  "document_references": {
+    "ktp": "documents/ktp.png",
+    "sim": "documents/sim.png",
+    "stnk": "documents/stnk.png"
+  }
+}
